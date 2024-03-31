@@ -19,4 +19,4 @@ Cargo.lock
 /target
 
 # Folder to store Tanaka Corpus
-/sentences
+sentences.utf
